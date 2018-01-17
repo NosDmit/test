@@ -2,7 +2,7 @@
   "name": "nosdmit/test",
   "description": "nosdmit test",
   "keywords": ["nosdmit", "test"],
-  "license": "BSD",
+  "license": "BSD-3-Clause",
   "authors": [
     {
       "name": "Nosov Dmitri",
